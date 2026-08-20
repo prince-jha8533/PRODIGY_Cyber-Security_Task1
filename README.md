@@ -41,8 +41,7 @@ Non-alphabetic characters (digits, spaces, punctuation) are left unchanged.
 
 ## 🛠 Requirements
 
-- Python 3.x
-- No external libraries required
+- Python 3
 
 ---
 
