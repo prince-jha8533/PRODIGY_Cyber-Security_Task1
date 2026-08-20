@@ -26,7 +26,7 @@ Non-alphabetic characters (digits, punctuation, spaces) are left as they are.
 
 ## Requirements
 
-- Python 3.x (no external libraries needed)
+- Python 3 (no external libraries needed)
 
 ## Usage
 
