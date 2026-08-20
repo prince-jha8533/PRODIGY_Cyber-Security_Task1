@@ -101,6 +101,3 @@ Decrypting `Khoor Zruog` with a shift of `3` returns the original message: `Hell
 .
 └── task1.py    # Encrypt/decrypt logic + CLI menu
 ```
-## 📄 License
-
-This project is open source and available for personal or educational use.
